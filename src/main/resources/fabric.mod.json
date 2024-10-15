@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "mapwaypointtextscale",
+  "version": "${version}",
+
+  "name": "Map Waypoint Text Scale",
+  "description": "Simple mod that allows you to set the scale of the map waypoint text",
+  "authors": ["leafs4n"],
+  "contact": {
+    "sources": "https://github.com/leafs4n/mapwaypointtextscale",
+    "issues": "https://github.com/leafs4n/mapwaypointtextscale/issues"
+  },
+
+  "license": "MIT",
+  "icon": "assets/mapwaypointtextscale/icon.png",
+
+  "environment": "client",
+  "entrypoints": {
+    "main": ["dev.leafs4n.mapwaypointtextscale.MapWaypointTextScale"]
+  },
+
+  "mixins": [
+    "mapwaypointtextscale.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": ">=${minecraft_version}",
+    "fabric-api": "*",
+    "owo": ">=0.12.15+1.21"
+  }
+}

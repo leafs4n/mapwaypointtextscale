@@ -1,0 +1,6 @@
+{
+  "modmenu.descriptionTranslation.mapwaypointtextscale": "Simple mod that allows you to set the scale of the map waypoint text",
+  "text.config.mapwaypointtextscale.title": "Map Waypoint Text Scale",
+  "text.config.mapwaypointtextscale.option.scale": "Scale",
+  "text.config.mapwaypointtextscale.option.scale.tooltip": "Any number\nRecommended from 3 to 8"
+}

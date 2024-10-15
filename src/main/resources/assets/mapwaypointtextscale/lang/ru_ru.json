@@ -1,0 +1,6 @@
+{
+  "modmenu.descriptionTranslation.mapwaypointtextscale": "Простой мод, позволяющий задать масштаб текста на метках карты",
+  "text.config.mapwaypointtextscale.title": "Map Waypoint Text Scale",
+  "text.config.mapwaypointtextscale.option.scale": "Масштаб",
+  "text.config.mapwaypointtextscale.option.scale.tooltip": "Любое число\nРекомендуется от 3 до 8"
+}

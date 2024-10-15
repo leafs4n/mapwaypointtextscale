@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.leafs4n.mapwaypointtextscale.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MapWaypointTextScaleMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
